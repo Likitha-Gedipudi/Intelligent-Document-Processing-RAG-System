@@ -1,7 +1,5 @@
 # 🏦 Banking Document RAG System
 
-A **100% free, locally-running** Retrieval-Augmented Generation (RAG) system for banking documents. Perfect for students and developers who want to learn RAG without paying for expensive APIs.
-
 ## ✨ Features
 
 - **📄 Document Processing**: Upload PDFs, TXT, DOCX files
