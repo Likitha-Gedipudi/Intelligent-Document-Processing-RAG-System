@@ -1,0 +1,164 @@
+========================================
+     KNOW YOUR CUSTOMER (KYC) FORM
+        XYZ BANK LIMITED
+========================================
+
+KYC Reference Number: KYC/2024/00789
+Date of Application: 18/01/2024
+
+----------------------------------------
+SECTION A: CUSTOMER IDENTIFICATION
+----------------------------------------
+
+Customer Type: Individual
+
+Full Name (as per ID proof): Priya Mehta
+Maiden Name (if applicable): N/A
+Date of Birth: 10/08/1990
+Place of Birth: Pune, Maharashtra
+Gender: Female
+Nationality: Indian
+Resident Status: Resident Indian
+
+----------------------------------------
+SECTION B: IDENTITY PROOF DETAILS
+----------------------------------------
+
+Primary Identity Document:
+- Document Type: Aadhaar Card
+- Aadhaar Number: 9876 5432 1098
+- Name as on Document: Priya Mehta
+
+Secondary Identity Document:
+- Document Type: PAN Card
+- PAN Number: BCDFE9876G
+- Name as on Document: Priya Mehta
+
+Additional Documents Submitted:
+- Passport Number: K98765432
+- Issue Date: 05/03/2020
+- Expiry Date: 04/03/2030
+- Place of Issue: Pune
+
+- Voter ID: MH/12/123/456789
+- Driving License: MH02 20150012345
+
+----------------------------------------
+SECTION C: ADDRESS DETAILS
+----------------------------------------
+
+Current Residential Address:
+Flat No. 302, Sunshine Apartments
+Near City Mall, Baner Road
+Pune, Maharashtra
+PIN Code: 411045
+
+Address Proof Document: Aadhaar Card
+
+Permanent Address:
+Same as Current Address
+
+Correspondence Address:
+Same as Current Address
+
+----------------------------------------
+SECTION D: CONTACT INFORMATION
+----------------------------------------
+
+Mobile Number (Primary): 8765432109
+Mobile Number (Alternate): 7654321098
+Landline Number: 020-12345678
+Email ID: priya.mehta@gmail.com
+
+----------------------------------------
+SECTION E: OCCUPATION DETAILS
+----------------------------------------
+
+Occupation Type: Salaried
+Employer Name: Infosys Technologies
+Designation: Team Lead
+Nature of Business: Information Technology
+Annual Income: Rs. 24,00,000
+Source of Wealth: Employment
+
+Office Address:
+Infosys Campus, Hinjewadi Phase 2
+Pune, Maharashtra
+PIN Code: 411057
+
+----------------------------------------
+SECTION F: FAMILY DETAILS
+----------------------------------------
+
+Father's Name: Ramesh Mehta
+Mother's Name: Sunita Mehta
+Spouse Name: Vikram Joshi (if applicable)
+
+Dependents: 1 (Child)
+
+----------------------------------------
+SECTION G: ACCOUNT DETAILS
+----------------------------------------
+
+Account Type: Savings Account
+Account Number: 98765432109876
+IFSC Code: XYZB0001234
+Branch: Baner, Pune
+
+Related Accounts:
+- Fixed Deposit: FD/2024/123456
+- Recurring Deposit: RD/2024/789012
+
+----------------------------------------
+SECTION H: RISK CATEGORIZATION
+----------------------------------------
+
+Risk Category: Low Risk
+Politically Exposed Person (PEP): No
+Related to PEP: No
+
+----------------------------------------
+SECTION I: DECLARATIONS
+----------------------------------------
+
+I/We hereby declare that:
+
+1. The information provided is true, correct, 
+   and complete to the best of my knowledge.
+
+2. I am not a Politically Exposed Person (PEP).
+
+3. I undertake to inform the bank of any changes 
+   to the information provided.
+
+4. I have no objection in the bank sharing my 
+   information with regulatory authorities.
+
+Date: 18/01/2024
+Place: Pune
+
+Customer Signature: _________________
+
+----------------------------------------
+FOR BANK USE ONLY
+----------------------------------------
+
+Documents Verified By: _______________
+Employee ID: _______________
+Verification Date: _______________
+KYC Status: Verified / Pending / Rejected
+Risk Assessment: Low / Medium / High
+
+Branch Manager Signature: _______________
+
+========================================
+     DOCUMENT CHECKLIST
+========================================
+☑ Identity Proof (Aadhaar)
+☑ Identity Proof (PAN)
+☑ Address Proof
+☑ Passport Size Photo
+☑ Signature Verification
+☐ In-Person Verification Complete
+
+========================================

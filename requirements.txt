@@ -1,0 +1,25 @@
+# Banking Document RAG System - Dependencies
+# All free, runs locally
+
+# Document Processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+
+# Embeddings (local, free)
+sentence-transformers>=2.2.0
+
+# Vector Database (local, free)
+chromadb>=0.4.0
+
+# LLM Client (for Ollama - local, free)
+ollama>=0.1.0
+
+# Web UI
+streamlit>=1.29.0
+
+# Data handling
+pandas>=2.0.0
+pydantic>=2.0.0
+
+# Utilities
+python-dateutil>=2.8.0

@@ -1,0 +1,108 @@
+========================================================
+                 ACCOUNT STATEMENT
+              STATE BANK OF INDIA
+         Andheri West Branch, Mumbai
+========================================================
+
+Account Holder: Amit Verma
+Account Number: 31245678901234
+IFSC Code: SBIN0005678
+Account Type: Savings Account
+Currency: INR
+
+Statement Period: 01/12/2023 to 31/12/2023
+Statement Date: 02/01/2024
+
+Customer ID: CIF123456789
+PAN: EFGHI5678J
+Mobile: 9988776655
+Email: amit.verma@email.com
+
+Address:
+B-12, Shanti Nagar Society
+Goregaon East, Mumbai
+Maharashtra - 400063
+
+--------------------------------------------------------
+                  ACCOUNT SUMMARY
+--------------------------------------------------------
+
+Opening Balance (01/12/2023):     Rs. 1,25,340.50
+Total Credits:                    Rs. 1,85,000.00
+Total Debits:                     Rs. 1,42,500.75
+Closing Balance (31/12/2023):     Rs. 1,67,839.75
+
+--------------------------------------------------------
+                TRANSACTION DETAILS
+--------------------------------------------------------
+
+Date       | Description              | Debit     | Credit    | Balance
+-----------|--------------------------|-----------|-----------|------------
+01/12/2023 | Opening Balance          |           |           | 1,25,340.50
+02/12/2023 | ATM Withdrawal-ANDHERI   | 10,000.00 |           | 1,15,340.50
+05/12/2023 | NEFT-SALARY CREDIT       |           | 85,000.00 | 2,00,340.50
+06/12/2023 | UPI-SWIGGY               | 450.00    |           | 1,99,890.50
+07/12/2023 | UPI-AMAZON               | 2,999.00  |           | 1,96,891.50
+08/12/2023 | NACH-HDFC CARD EMI       | 12,500.00 |           | 1,84,391.50
+10/12/2023 | IMPS-TO RAMESH           | 5,000.00  |           | 1,79,391.50
+12/12/2023 | UPI-ELECTRICITY BILL     | 2,350.00  |           | 1,77,041.50
+15/12/2023 | NEFT-RENT RECEIVED       |           | 25,000.00 | 2,02,041.50
+16/12/2023 | ATM Withdrawal-MALAD     | 20,000.00 |           | 1,82,041.50
+18/12/2023 | UPI-ZOMATO               | 385.00    |           | 1,81,656.50
+20/12/2023 | IMPS-MOBILE RECHARGE     | 599.00    |           | 1,81,057.50
+22/12/2023 | UPI-BIGBASKET            | 1,875.75  |           | 1,79,181.75
+25/12/2023 | NEFT-BONUS CREDIT        |           | 75,000.00 | 2,54,181.75
+26/12/2023 | RTGS-INVESTMENT          | 50,000.00 |           | 2,04,181.75
+28/12/2023 | UPI-PETROL PUMP          | 3,500.00  |           | 2,00,681.75
+29/12/2023 | NACH-LIC PREMIUM         | 12,342.00 |           | 1,88,339.75
+30/12/2023 | UPI-GROCERY              | 2,500.00  |           | 1,85,839.75
+31/12/2023 | IMPS-MEDICAL EXPENSE     | 18,000.00 |           | 1,67,839.75
+31/12/2023 | Closing Balance          |           |           | 1,67,839.75
+
+--------------------------------------------------------
+               TRANSACTION SUMMARY
+--------------------------------------------------------
+
+Mode of Transaction      | Count | Total Amount (Rs.)
+-------------------------|-------|-------------------
+ATM Withdrawal           |   2   |     30,000.00
+NEFT Credit             |   3   |   1,85,000.00
+NEFT Debit              |   0   |           0.00
+UPI Transactions        |   6   |     12,109.75
+IMPS Transactions       |   3   |     23,599.00
+RTGS Transactions       |   1   |     50,000.00
+NACH/Auto Debit         |   2   |     24,842.00
+Other Transactions      |   0   |           0.00
+
+--------------------------------------------------------
+              AVERAGE MONTHLY BALANCE
+--------------------------------------------------------
+
+Average Balance:                  Rs. 1,87,456.23
+Minimum Balance Required:         Rs. 10,000.00
+Minimum Balance Maintained: Yes
+
+--------------------------------------------------------
+             IMPORTANT INFORMATION
+--------------------------------------------------------
+
+1. For any discrepancy, please contact within 15 days.
+2. This is a computer-generated statement.
+3. For account-related queries: 1800-XXX-XXXX
+4. Email: customercare@sbi.co.in
+
+Branch Code: 005678
+Branch Manager: Mr. Suresh Patil
+
+--------------------------------------------------------
+                 NOMINATION DETAILS
+--------------------------------------------------------
+
+Nominee Name: Sunita Verma
+Relationship: Spouse
+Nominee Aadhaar: 4567 8901 2345
+
+========================================================
+     This is an electronically generated statement
+          and does not require a signature
+========================================================

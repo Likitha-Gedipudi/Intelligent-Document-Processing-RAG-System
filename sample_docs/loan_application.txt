@@ -1,0 +1,140 @@
+========================================
+        LOAN APPLICATION FORM
+       ABC BANK PVT. LTD.
+========================================
+
+Application Reference: LA/2024/001234
+Date: 15/01/2024
+
+----------------------------------------
+SECTION 1: APPLICANT DETAILS
+----------------------------------------
+
+Full Name: Rajesh Kumar Sharma
+Father's Name: Mohan Lal Sharma
+Date of Birth: 22/05/1985
+Gender: Male
+Marital Status: Married
+
+Contact Information:
+- Mobile: 9876543210
+- Email: rajesh.sharma@email.com
+- Address: 45, Green Park Colony, Andheri West
+           Mumbai, Maharashtra
+           PIN Code: 400058
+
+----------------------------------------
+SECTION 2: IDENTITY DOCUMENTS
+----------------------------------------
+
+PAN Card Number: ABCDE1234F
+Aadhaar Number: 1234 5678 9012
+Passport Number: J12345678
+
+----------------------------------------
+SECTION 3: EMPLOYMENT DETAILS
+----------------------------------------
+
+Employer Name: Tech Solutions India Pvt. Ltd.
+Designation: Senior Software Engineer
+Employment Type: Permanent
+Years of Experience: 8 years
+
+Office Address: 
+Mindspace IT Park, Malad West
+Mumbai, Maharashtra - 400064
+
+----------------------------------------
+SECTION 4: INCOME DETAILS
+----------------------------------------
+
+Monthly Gross Salary: Rs. 1,50,000
+Monthly Net Salary: Rs. 1,25,000
+Annual Income: Rs. 18,00,000
+
+Other Income Sources:
+- Rental Income: Rs. 25,000 per month
+- Investment Returns: Rs. 50,000 per year
+
+Total Annual Income: Rs. 21,50,000
+
+----------------------------------------
+SECTION 5: LOAN REQUIREMENTS
+----------------------------------------
+
+Loan Type: Home Loan
+Loan Amount Requested: Rs. 75,00,000
+Loan Tenure: 20 years
+Purpose: Purchase of residential property
+
+Property Details:
+- Type: 3 BHK Apartment
+- Location: Thane, Maharashtra
+- Builder: Reliable Developers Pvt. Ltd.
+- Estimated Value: Rs. 95,00,000
+
+----------------------------------------
+SECTION 6: BANK ACCOUNT DETAILS
+----------------------------------------
+
+Bank Name: State Bank of India
+Branch: Andheri West, Mumbai
+Account Number: 12345678901234
+IFSC Code: SBIN0001234
+Account Type: Savings
+
+----------------------------------------
+SECTION 7: EXISTING LIABILITIES
+----------------------------------------
+
+1. Car Loan:
+   - Lender: HDFC Bank
+   - Outstanding Amount: Rs. 3,50,000
+   - EMI: Rs. 12,500
+   - Remaining Tenure: 30 months
+
+2. Credit Card:
+   - Card Issuer: ICICI Bank
+   - Credit Limit: Rs. 2,00,000
+   - Current Outstanding: Rs. 45,000
+
+Total Monthly Obligations: Rs. 12,500
+
+----------------------------------------
+SECTION 8: REFERENCES
+----------------------------------------
+
+1. Name: Suresh Verma
+   Relationship: Colleague
+   Phone: 9898989898
+
+2. Name: Amit Patel
+   Relationship: Friend
+   Phone: 8787878787
+
+----------------------------------------
+SECTION 9: DECLARATION
+----------------------------------------
+
+I, Rajesh Kumar Sharma, hereby declare that all 
+the information provided above is true and correct 
+to the best of my knowledge. I authorize ABC Bank 
+to verify the details provided.
+
+Date: 15/01/2024
+Place: Mumbai
+
+Signature: _________________
+
+----------------------------------------
+FOR BANK USE ONLY
+----------------------------------------
+
+Application Received By: _______________
+Date: _______________
+Verification Status: Pending
+Loan Officer: _______________
+Interest Rate Offered: 8.5% p.a.
+Processing Fee: 0.5% of loan amount
+
+========================================
